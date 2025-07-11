@@ -1,20 +1,21 @@
-<h1 align="center"><h1>Hello World!</h1></h1>
+<h1 align="center">Hello World!</h1>
 
 ###
 
-<p align="left"><p>Oiii eu sou a Maria Fernanda, estudante de ciência da computação!</p></p>
+<p align="left">Oiii eu sou a Maria Fernanda, estudante de ciência da computação!</p>
 
 ###
 
-<h2 align="left"><h2>About me</h2></h2>
+<h2 align="left">About me...</h2>
 
 ###
 
-<p align="left"><p>Sou estudante do 2º semestre em Ciência da computação e estou sempre buscando aprimorar e compartilhar meus conhecimentos enquanto conheço mais sobre a área da tecnologia.</p></p>
+<p align="left">Sou estudante do 2º semestre em Ciência da computação e estou sempre buscando aprimorar e compartilhar meus conhecimentos enquanto conheço mais sobre a área da tecnologia.</p>
+<p align="left">Apaixonada por front-end e estudando sobre UX/UI design, HTML, CSS, JavaScript e suas FrameWorks.</p>
 
 ###
 
-<h2 align="left"><h2>I code with</h2></h2>
+<h2 align="left">I code with</h2>
 
 ###
 
