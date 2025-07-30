@@ -11,7 +11,7 @@
 ###
 
 <p align="left">Sou estudante do 2º semestre em Ciência da computação e estou sempre buscando aprimorar e compartilhar meus conhecimentos enquanto conheço mais sobre a área da tecnologia.</p>
-<p align="left">Apaixonada por front-end e estudando sobre UX/UI design, HTML, CSS, JavaScript e suas FrameWorks.</p>
+<p align="left">Apaixonada por front-end e estudando sobre JAVA, HTML, CSS, JavaScript e suas FrameWorks.</p>
 
 ###
 
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
