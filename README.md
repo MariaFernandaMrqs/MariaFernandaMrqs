@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oiii eu sou a Maria Fernanda, estudante de ciência da computação!</p>
+<p align="left">Oi eu sou a Maria Fernanda, estudante de ciência da computação!</p>
 
 ###
 
@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">Sou estudante do 2º semestre em Ciência da computação e estou sempre buscando aprimorar e compartilhar meus conhecimentos enquanto conheço mais sobre a área da tecnologia.</p>
-<p align="left">Apaixonada por front-end e estudando sobre JAVA, HTML, CSS, JavaScript e suas FrameWorks.</p>
+<p align="left">Sou estudante do 3º semestre em Ciência da computação e estou sempre buscando aprimorar e compartilhar meus conhecimentos enquanto conheço mais sobre a área da tecnologia.</p>
+<p align="left">Apaixonada por front-end e estudando sobre desenvolvimeno Full-Stack.</p>
 
 ###
 
