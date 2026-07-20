@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Etudante do 4º semestre em Ciência da computação, curiosa sobre o desenvolvimento Full-Stack  e UI/UX design, atualmente estudando e me aprimorando sobre o Back-end com JAVA e Front-end com JavaScript, HTML, CSS e suas respectivas frameworks.<br><br>Estou sempre buscando aprimorar e compartilhar meus conhecimentos enquanto conheço mais sobre a área da tecnologia enquanto desenvolvo projetos próprios usando problemas diários como base de desenvolvimento.</p>
+<p align="left">Estudante de Ciência da computação, interessada em Desenvolvimento web, Inteligência Artificial, Machine Learning e Programação.<br><br>Estou sempre buscando aprimorar e compartilhar meus conhecimentos enquanto conheço mais sobre a área da tecnologia enquanto desenvolvo projetos próprios usando problemas diários como base de desenvolvimento.</p>
 
 ###
 
